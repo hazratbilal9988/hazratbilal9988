@@ -19,9 +19,9 @@
   
   💻: CSS
   
-  https://github.com/DenverCoder1/hazratbilal9988#-programming-and-markup-languages
   
   
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazratbilal9988)](https://github.com/anuraghazra/github-readme-stats)
   
 
 🔥 My Stats:
