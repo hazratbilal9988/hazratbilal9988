@@ -20,6 +20,9 @@
   💻: CSS
   
   
+  [![Anurag's GitHub stats](https://github.com/DenverCoder1/DenverCoder1#-software-and-tools)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazratbilal9988)](https://github.com/anuraghazra/github-readme-stats)
   
   
