@@ -7,12 +7,18 @@
 
 👋 Hey:
 ⚒️ Tools and Languages:
-  Java
-  C++
-  Python
-  JavaScript
-  HTML
-  CSS
+  💻: Java
+  
+  💻: C++
+  
+  💻: Python
+  
+  💻: JavaScript
+  
+  💻: HTML
+  
+  💻: CSS
+  
   
 
 🔥 My Stats:
