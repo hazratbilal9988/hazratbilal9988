@@ -1,8 +1,35 @@
-- 👋 Hi, I’m @hazratbilal9988
+- 👋 Hi, I’m Hazrat Bilal Styding Software Engineering at University of Swat
+
+
+
+
 - 👀 I’m interested in ...
+  - Browsing Sites
+  - Programming
+  - Playing Games
+  - Hacking
+
+
+
 - 🌱 I’m currently learning ...
+  - Python For Cyber security
+  - JavaScript For Web Development
+  - Networking
+  - Hacking Computers
+  - Network Hacking
+  - Bash Scripting for linux (OS)
+
+
+
+
 - 💞️ I’m looking to collaborate on ...
+
+
+
+
 - 📫 How to reach me ...
+  - Whats App : 03169536101
+  - Email Address: hazratbilaltv11@gmail.com
 
 
 👋 Hey:
